@@ -1,0 +1,15 @@
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/bin/Debug/net6.0/CodeSandbox
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/bin/Debug/net6.0/CodeSandbox.deps.json
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/bin/Debug/net6.0/CodeSandbox.runtimeconfig.json
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/bin/Debug/net6.0/CodeSandbox.dll
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/bin/Debug/net6.0/CodeSandbox.pdb
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.csproj.AssemblyReference.cache
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.AssemblyInfoInputs.cache
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.AssemblyInfo.cs
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.csproj.CoreCompileInputs.cache
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.dll
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/refint/CodeSandbox.dll
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.pdb
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.genruntimeconfig.cache
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/ref/CodeSandbox.dll
