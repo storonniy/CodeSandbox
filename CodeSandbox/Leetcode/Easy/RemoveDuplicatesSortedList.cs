@@ -1,8 +1,10 @@
+using CodeSandbox.Leetcode.Medium;
+
 namespace CodeSandbox.Leetcode.Easy;
 
 public class RemoveDuplicatesSortedList
 {
-    public ListNode DeleteDuplicates(ListNode head)
+    public RangeBitwiseAnd1.Solution.ListNode DeleteDuplicates(RangeBitwiseAnd1.Solution.ListNode head)
     {
         var current = head;
         while (current != null && current.next != null)

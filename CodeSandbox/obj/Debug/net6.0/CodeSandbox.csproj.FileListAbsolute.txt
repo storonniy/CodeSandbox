@@ -13,3 +13,5 @@
 /Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.pdb
 /Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.genruntimeconfig.cache
 /Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/ref/CodeSandbox.dll
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/svetlanav/RiderProjects/CodeSandbox/CodeSandbox/obj/Debug/net6.0/CodeSandbox.csproj.CopyComplete
